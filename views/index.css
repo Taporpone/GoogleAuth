@@ -1,0 +1,26 @@
+body {
+    background-color: #00277F
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.title {
+    color: white;
+}
+
+.loginButton button {
+     background-color: #004FFF;
+}
+
+.loginButton a {
+    text-decoration:none;
+    border:none;
+   
+}
+
